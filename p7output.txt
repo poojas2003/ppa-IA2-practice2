@@ -1,1 +1,16 @@
+gcc -g p7original.c
+ ./a.out
+enter the values
+2
+3
+the area of triangle 2.000000 and 3.000000 is 3.000000 ./a.out
+enter the values
+3
+6
+the area of triangle 3.000000 and 6.000000 is 9.000000 ./a.out
+enter the values
+4
+3
+the area of triangle 4.000000 and 3.000000 is 6.000000 
+
 
